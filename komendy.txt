@@ -1,0 +1,35 @@
+1. INSTALACJA BROWSER SYNC:
+npm install --save-dev browser-sync
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm notice created a lockfile as package-lock.json. You should commit this file.
+
+	+ browser-sync@2.26.7
+	added 334 packages from 269 contributors and audited 3502 packages in 14.119s
+
+	2 packages are looking for funding
+ 	run `npm fund` for details
+
+	found 0 vulnerabilities
+2. INSTALACJA AUTOPREFIXER-CLI
+npm install --save-dev autoprefixer-cli
+npm WARN deprecated browserslist@1.7.7: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+	+ autoprefixer-cli@1.0.0
+	added 20 packages from 121 contributors and audited 3557 packages in 3.169s
+
+	2 packages are looking for funding
+	run `npm fund` for details
+
+	found 0 vulnerabilities
+3. INSTALACJA HTML-VALIDATE
+npm install --save-dev html-validate
+npm WARN learning-git@1.0.0 No description
+npm WARN learning-git@1.0.0 No repository field.
+
+	+ html-validate@2.20.0
+	added 161 packages from 96 contributors and audited 3926 packages in 11.296s
+
+	23 packages are looking for funding
+	run `npm fund` for details
+
+	found 0 vulnerabilities
