@@ -6,6 +6,7 @@ body {
   padding-top: 100px;
   letter-spacing: 1px;
   color: burlywood;
+  display: -ms-flexbox;
   display: flex;
 }
 
